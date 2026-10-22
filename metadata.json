@@ -1,0 +1,6 @@
+{
+  "name": "Quality Motors - Car Service Center Basapura",
+  "description": "Premium appointment booking and automotive care platform for Quality Motors, premier multi-brand car workshop on Basapura Main Road, Electronic City, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

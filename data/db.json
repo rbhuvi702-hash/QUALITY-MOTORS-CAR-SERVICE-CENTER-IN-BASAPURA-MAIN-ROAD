@@ -1,0 +1,342 @@
+{
+  "business": {
+    "name": "Quality Motors",
+    "listingName": "QUALITY MOTORS - CAR SERVICE CENTER IN BASAPURA MAIN ROAD",
+    "category": "Automobile Repair & Multi-Brand Car Service Center",
+    "tagline": "Precision Auto Care & Multi-Brand Car Service Specialists in Electronic City",
+    "address": "30, Chikkathogur Post, 1, Bettadasanapura Rd, Pragathi Nagar, Basapura Main Road, Electronic City, Bengaluru, Karnataka 560100",
+    "phone": "+919945574983",
+    "displayPhone": "+91 99455 74983",
+    "whatsapp": "919945574983",
+    "email": "contact@qualitymotors.in",
+    "establishedYear": 2014,
+    "googleRating": 4.8,
+    "totalReviews": 38,
+    "coordinates": {
+      "lat": 12.8628481,
+      "lng": 77.6495644
+    },
+    "googleMapsUrl": "https://maps.app.goo.gl/pAJ8AqN1PUp49bwq6",
+    "hours": {
+      "mon_sat": "9:30 AM - 7:30 PM",
+      "sunday": "9:30 AM - 7:30 PM",
+      "emergency": "24/7 Breakdown & Towing Assistance"
+    },
+    "ownerConfirmationNeeded": [
+      {
+        "id": "payment_upi",
+        "label": "Official Workshop UPI ID / QR Code for advance booking tokens",
+        "status": "Pending Owner Confirmation"
+      },
+      {
+        "id": "gstin",
+        "label": "Workshop GSTIN / Tax Identification Number for formal invoices",
+        "status": "Pending Owner Confirmation"
+      },
+      {
+        "id": "sms_gateway",
+        "label": "SMS Gateway API Key (e.g. Twilio / Gupshup / Fast2SMS) for automated SMS alerts",
+        "status": "Using Web & WhatsApp Direct Notification"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "general-periodic-service",
+      "title": "Comprehensive Periodic Car Maintenance",
+      "shortDesc": "Complete 40-point vehicle health check, engine oil flush & replacement, air/oil filter change, brake pad cleaning, and top-ups.",
+      "durationMin": 120,
+      "startingPrice": 2499,
+      "priceNote": "Starting from ₹2,499 (Excludes synthetic oil & spare parts)",
+      "category": "Maintenance",
+      "featured": true,
+      "image": "/src/assets/images/hero_car_workshop_1792656724235.jpg",
+      "details": [
+        "Synthetic / Mineral Engine Oil Replacement",
+        "OEM Oil Filter & Air Filter Cleaning / Replacement",
+        "40-Point Comprehensive Electronic & Mechanical Check",
+        "Coolant, Brake Fluid, & Washer Fluid Top-Up",
+        "Spark Plug & Ignition Coil Inspection",
+        "Complete Interior Vacuuming & Exterior Foam Wash"
+      ]
+    },
+    {
+      "id": "engine-diagnostics-scanning",
+      "title": "Computerized Engine Diagnostics & ECU Scan",
+      "shortDesc": "High-precision OBD-II diagnostic scan, check-engine light troubleshooting, sensor calibration, and live powertrain data analysis.",
+      "durationMin": 60,
+      "startingPrice": 999,
+      "priceNote": "₹999 Fixed Scanning & Comprehensive Diagnostic Report",
+      "category": "Diagnostics",
+      "featured": true,
+      "image": "/src/assets/images/service_engine_diagnostics_1792656724921.jpg",
+      "details": [
+        "Full ECU, ABS, Airbag, & Transmission Scan",
+        "Check Engine Light & Error Code Clearing",
+        "O2 Sensor, Mass Air Flow (MAF) & Throttle Body Testing",
+        "Battery Charging & Alternator Performance Check",
+        "Detailed Technician Diagnostic Report with Quote"
+      ]
+    },
+    {
+      "id": "brake-system-overhaul",
+      "title": "Brake System Service & Disc Rotor Resurfacing",
+      "shortDesc": "Inspection of front and rear brake pads, caliper lubrication, rotor thickness check, brake fluid flush, and bleeding.",
+      "durationMin": 90,
+      "startingPrice": 1499,
+      "priceNote": "Starting from ₹1,499 per axle + parts",
+      "category": "Safety & Brakes",
+      "featured": true,
+      "image": "/src/assets/images/service_brake_suspension_1792656726008.jpg",
+      "details": [
+        "Front & Rear Brake Pad Wear Inspection",
+        "Brake Disc / Rotor Resurfacing or Replacement",
+        "Caliper Pin Cleaning & Synthetic High-Temp Lubrication",
+        "DOT 4 Brake Fluid Bleeding & Pressure Test",
+        "Handbrake Cable Calibration & Drum Adjustment"
+      ]
+    },
+    {
+      "id": "ac-service-gas-refill",
+      "title": "Car Air Conditioning Service & Cooling Coil Cleaning",
+      "shortDesc": "Advanced AC gas recovery & refilling (R134a/R1234yf), condenser cleaning, cabin pollen filter replacement, and anti-bacterial duct treatment.",
+      "durationMin": 90,
+      "startingPrice": 1899,
+      "priceNote": "Starting from ₹1,899 (Includes refrigerant gas top-up)",
+      "category": "Climate Control",
+      "featured": true,
+      "image": "/src/assets/images/service_engine_diagnostics_1792656724921.jpg",
+      "details": [
+        "Pure R134a Refrigerant Gas Refilling to Factory Specs",
+        "AC Compressor Oil Top-Up & Pressure Testing",
+        "Cooling Coil & Condenser Deep Wash",
+        "Cabin AC Filter Inspection & Replacement",
+        "Evaporator Odor Elimination & Anti-Bacterial Sanitization"
+      ]
+    },
+    {
+      "id": "suspension-steering-repair",
+      "title": "Suspension, Steering & Strut Overhaul",
+      "shortDesc": "Eliminate thuds, wobbles, and uneven tire wear with complete shock absorber, link rod, bushing, and steering rack overhaul.",
+      "durationMin": 120,
+      "startingPrice": 2199,
+      "priceNote": "Starting from ₹2,199 inspection & labor + parts",
+      "category": "Suspension",
+      "featured": false,
+      "image": "/src/assets/images/service_brake_suspension_1792656726008.jpg",
+      "details": [
+        "Front & Rear Shock Absorber Leakage & Rebound Test",
+        "Lower Arm, Bushing, and Ball Joint Inspection",
+        "Stabilizer Link Rod & Tie Rod End Replacement",
+        "Power Steering Fluid Flush & Rack Inspection",
+        "Test Drive on Basapura Road Testing Tracks"
+      ]
+    },
+    {
+      "id": "car-detailing-ceramic-polish",
+      "title": "Deep Interior Detailing & Machine Paint Polishing",
+      "shortDesc": "Restores showroom gloss with deep foam wash, clay bar paint decontamination, dual-action machine polishing, and fabric dry cleaning.",
+      "durationMin": 180,
+      "startingPrice": 2999,
+      "priceNote": "Starting from ₹2,999 (Hatchback/Sedan)",
+      "category": "Detailing",
+      "featured": true,
+      "image": "/src/assets/images/service_detailing_polish_1792656725417.jpg",
+      "details": [
+        "pH-Neutral Snow Foam Exterior Wash & Underbody Jet Rinse",
+        "Clay Bar Paint Decontamination & Iron Fallout Removal",
+        "Rotary / Dual Action 2-Stage Machine Swirl Polish",
+        "Interior Upholstery Steam Extraction & Leather Conditioning",
+        "Tire Dressing, Glass De-scaling, & Carnauba Wax Sealant"
+      ]
+    },
+    {
+      "id": "battery-electrical-diagnostics",
+      "title": "Car Battery Health Test & Electrical Diagnostics",
+      "shortDesc": "Digital cranking amp test, alternator charging verification, parasitic drain troubleshooting, and genuine Exide/Amaron battery replacement.",
+      "durationMin": 45,
+      "startingPrice": 499,
+      "priceNote": "Starting from ₹499 checkup (Free with battery replacement)",
+      "category": "Electrical",
+      "featured": false,
+      "image": "/src/assets/images/service_engine_diagnostics_1792656724921.jpg",
+      "details": [
+        "Cold Cranking Amps (CCA) & Battery Life Percentage Test",
+        "Alternator Diode & Voltage Regulator Load Test",
+        "Starter Motor Amperage Draw Analysis",
+        "Parasitic Current Drain / Battery Leakage Check",
+        "Genuine OEM Battery Sales with Manufacturer Warranty"
+      ]
+    },
+    {
+      "id": "breakdown-emergency-inspection",
+      "title": "24/7 Breakdown Assistance & Emergency Inspection",
+      "shortDesc": "On-site battery jumpstart, flat tire replacement, radiator overheating diagnosis, and workshop flatbed towing across Electronic City and Basapura.",
+      "durationMin": 60,
+      "startingPrice": 899,
+      "priceNote": "Starting from ₹899 on-site call-out fee",
+      "category": "Emergency",
+      "featured": false,
+      "image": "/src/assets/images/hero_car_workshop_1792656724235.jpg",
+      "details": [
+        "Rapid Dispatch along Basapura Main Rd, Hosur Rd & Electronic City",
+        "Professional Heavy-Duty Jumpstart & Battery Diagnostics",
+        "Flat Tire Puncture Repair & Spare Wheel Replacement",
+        "Coolant Leakage & Overheating Roadside Diagnostics",
+        "Safe Flatbed Towing Directly to Quality Motors Workshop"
+      ]
+    }
+  ],
+  "staff": [
+    {
+      "id": "sanjay",
+      "name": "Sanjay",
+      "role": "Lead Service Advisor & Diagnostics Lead",
+      "experience": "9+ Years Automotive Experience",
+      "specialty": "Customer Consultation, Multi-Brand Diagnostics & Transparent Estimates",
+      "verified": true
+    },
+    {
+      "id": "ramesh",
+      "name": "Ramesh K.",
+      "role": "Senior Master Technician",
+      "experience": "12+ Years Experience",
+      "specialty": "Engine Rebuilds, Automatic/Manual Transmissions & Powertrain",
+      "verified": true
+    },
+    {
+      "id": "vikram",
+      "name": "Vikram N.",
+      "role": "Suspension, Brakes & Electrical Specialist",
+      "experience": "8+ Years Experience",
+      "specialty": "High-Precision Brake Systems, Steering Geometry & Electronic Modules",
+      "verified": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "author": "Venkatesh R.",
+      "rating": 5,
+      "date": "2 weeks ago",
+      "carModel": "Honda City 1.5 i-VTEC",
+      "service": "Comprehensive Periodic Car Maintenance",
+      "text": "Service Advisor Sanjay was very good and transparent. He clearly walked me through what needed attention without any pushy upselling. Car was delivered smooth and punctually on Basapura Main Road.",
+      "verified": true
+    },
+    {
+      "id": "rev-2",
+      "author": "Arjun Nair",
+      "rating": 5,
+      "date": "1 month ago",
+      "carModel": "Hyundai Creta SX",
+      "service": "Car Air Conditioning Service & Cooling Coil Cleaning",
+      "text": "My AC had completely stopped blowing cold air during peak Bangalore traffic. The team at Quality Motors diagnosed the refrigerant leakage, replaced the valve, and refilled gas. Super chilled cooling now!",
+      "verified": true
+    },
+    {
+      "id": "rev-3",
+      "author": "Deepak Sharma",
+      "rating": 5,
+      "date": "2 months ago",
+      "carModel": "Maruti Suzuki Swift Dzire",
+      "service": "Brake System Service & Disc Rotor Resurfacing",
+      "text": "Had persistent brake squeal and vibration on highway driving. They skimmed the rotors and fitted new brake pads. Very satisfied with Quality Motors - affordable rates compared to authorized showrooms.",
+      "verified": true
+    },
+    {
+      "id": "rev-4",
+      "author": "Preeti Kulkarni",
+      "rating": 4,
+      "date": "3 months ago",
+      "carModel": "Volkswagen Polo GT TSI",
+      "service": "Computerized Engine Diagnostics & ECU Scan",
+      "text": "Check engine warning had popped up. Their technician identified the faulty oxygen sensor quickly with computerized scanner and fixed the harness. Professional and reliable workshop in Basapura.",
+      "verified": true
+    }
+  ],
+  "blockedDates": [],
+  "appointments": [
+    {
+      "id": "QM-2511-F",
+      "createdAt": "2026-10-22T08:57:31.459Z",
+      "customerName": "Test Customer",
+      "phone": "9876543210",
+      "email": "",
+      "vehicleMake": "Honda",
+      "vehicleModel": "City",
+      "vehicleNumber": "KA 51 AB 1234",
+      "fuelType": "Petrol",
+      "serviceId": "general-periodic-service",
+      "serviceTitle": "Comprehensive Periodic Car Maintenance",
+      "staffId": "any",
+      "staffName": "Assigned Workshop Advisor",
+      "date": "2026-10-24",
+      "timeSlot": "09:30 AM",
+      "status": "cancelled",
+      "notes": "Vehicle inspected: Brake pads check requested by client",
+      "price": 2499,
+      "updatedAt": "2026-10-22T09:44:47.368Z"
+    },
+    {
+      "id": "QM-2062-O",
+      "createdAt": "2026-10-22T08:28:57.170Z",
+      "customerName": "nbvfvjhkjjdfz",
+      "phone": "8357575375",
+      "email": "fjrhjfajlj@gmail.com",
+      "vehicleMake": "Hyundai",
+      "vehicleModel": "creta",
+      "vehicleNumber": "HG 49 MH 5745",
+      "fuelType": "Petrol",
+      "serviceId": "general-periodic-service",
+      "serviceTitle": "Comprehensive Periodic Car Maintenance",
+      "staffId": "any",
+      "staffName": "Assigned Workshop Advisor",
+      "date": "2026-10-22",
+      "timeSlot": "09:30 AM",
+      "status": "confirmed",
+      "notes": "engine stroke not working",
+      "price": 2499
+    },
+    {
+      "id": "QM-9842-A",
+      "createdAt": "2026-10-20T10:30:00.000Z",
+      "customerName": "Anand Murthy",
+      "phone": "+91 98450 12345",
+      "email": "anand.murthy@example.com",
+      "vehicleMake": "Hyundai",
+      "vehicleModel": "Venue SX(O)",
+      "vehicleNumber": "KA 51 ME 4821",
+      "fuelType": "Petrol",
+      "serviceId": "general-periodic-service",
+      "serviceTitle": "Comprehensive Periodic Car Maintenance",
+      "staffId": "sanjay",
+      "staffName": "Sanjay",
+      "date": "2026-10-23",
+      "timeSlot": "10:30 AM",
+      "status": "confirmed",
+      "notes": "Please check slight steering vibration at 80 km/h.",
+      "price": 2499
+    },
+    {
+      "id": "QM-7319-B",
+      "createdAt": "2026-10-21T14:15:00.000Z",
+      "customerName": "Karthik Sundaram",
+      "phone": "+91 99001 88772",
+      "email": "karthik.s@example.com",
+      "vehicleMake": "Tata",
+      "vehicleModel": "Nexon EV",
+      "vehicleNumber": "KA 05 MN 9012",
+      "fuelType": "Electric",
+      "serviceId": "brake-system-overhaul",
+      "serviceTitle": "Brake System Service & Disc Rotor Resurfacing",
+      "staffId": "vikram",
+      "staffName": "Vikram N.",
+      "date": "2026-10-23",
+      "timeSlot": "02:30 PM",
+      "status": "confirmed",
+      "notes": "Brake squeak on slow deceleration.",
+      "price": 1499
+    }
+  ]
+}
